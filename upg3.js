@@ -1,1 +1,3 @@
-console.log("script.js is loaded")
+function button(){
+    document.getElementById("changeElement").innerHTML = "Did it work?";
+}
