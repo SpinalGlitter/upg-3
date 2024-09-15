@@ -4,3 +4,12 @@ h1
 color: blue;
 
 }
+.greenButton {
+    background-color: green;
+}
+.redButton {
+    background-color: red;
+}
+.yellowButton {
+    background-color: yellow;
+}

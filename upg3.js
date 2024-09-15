@@ -1,3 +1,1 @@
-function button(){
-    document.getElementById("changeElement").innerHTML = "Did it work?";
-}
+const myBody = document.querySelector("body")
