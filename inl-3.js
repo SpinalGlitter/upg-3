@@ -1,11 +1,11 @@
 function change() {
-    let elem = document.getElementById("change-text");
+    let text = document.getElementById("change-text");
 
-    if (elem.innerHTML=="Hello World!") {
-        elem.innerHTML = "Goodbye World!";
+    if (text.innerHTML=="Hello World!") {
+        text.innerHTML = "Goodbye World!";
     }
    else {
-    elem.innerHTML = "Hello World!"
+    text.innerHTML = "Hello World!"
    }
 }
 
