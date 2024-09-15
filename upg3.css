@@ -4,12 +4,15 @@ h1
 color: blue;
 
 }
-.greenButton {
-    background-color: green;
-}
+
 .redButton {
     background-color: red;
+    padding: 10px;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    font-size: 13;
 }
-.yellowButton {
-    background-color: yellow;
+.redButton:active {
+    colo
 }
