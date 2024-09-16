@@ -4,9 +4,9 @@ function change() {
     if (text.innerHTML=="Hello World!") {
         text.innerHTML = "Goodbye World!";
     }
-   else {
-    text.innerHTML = "Hello World!"
-   }
+    else {
+        text.innerHTML = "Hello World!"
+       }
 }
 
 
