@@ -1,5 +1,5 @@
 function change() {
-    let text = document.getElementById("change-text");
+    let text = document.querySelector("h1");
 
     if (text.innerHTML=="Hello World!") {
         text.innerHTML = "Goodbye World!";
